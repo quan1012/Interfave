@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Abstract Class &amp; Interface.iml" filepath="$PROJECT_DIR$/.idea/Abstract Class &amp; Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AnimalvainterfaceEdible/AnimalvainterfaceEdible.iml" filepath="$PROJECT_DIR$/AnimalvainterfaceEdible/AnimalvainterfaceEdible.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfaceColorable/interfaceColorable.iml" filepath="$PROJECT_DIR$/interfaceColorable/interfaceColorable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfaceComparable/interfaceComparable.iml" filepath="$PROJECT_DIR$/interfaceComparable/interfaceComparable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfaceComparator/interfaceComparator.iml" filepath="$PROJECT_DIR$/interfaceComparator/interfaceComparator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfaceResizeable/interfaceResizeable.iml" filepath="$PROJECT_DIR$/interfaceResizeable/interfaceResizeable.iml" />
+    </modules>
+  </component>
+</project>
